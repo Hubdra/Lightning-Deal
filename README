@@ -1,0 +1,13 @@
+Hello! 
+
+This program creates a list of isbns and then uses those isbns to find the respective pages on amazon.
+From there, the page is scraped to find the 'used price' of the third party marketplace, as well as the 
+'sell back price' offered by Amazon itself.  If the used price + shipping is lower than the sellback price,
+it will record the information on a separate text file.  It will also send a quick email with the isbn number
+in the body text (still a work in progress).  From there I decide whether it's worthwhile to buy, and then
+let the money roll in! 
+
+Thanks for looking it over.  Any suggestions are welcome! 
+
+
+-Andrew Lei
